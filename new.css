@@ -1,0 +1,75 @@
+
+
+							.Wow h3{
+								color:red;
+								background-color:pink;
+								padding:10px;	
+								border-left:10px green dashed;
+								border-right:10px green dashed;
+								text-align:center;
+								}
+								
+							#Register h2 {
+								background-color:gray;
+								text-align:center;
+								color:white;
+								display:inline;
+								text-decoration: center
+								;
+								}
+								
+							Div button{
+								Color:Red;
+								background-color:pink;
+								padding:10px;
+								}
+					
+							
+							.div2{
+								color:Black;
+								border:5px solid black;
+								font-size:20px;
+								width:300px;
+								margin:80px 50px 100px 80px;
+								background:linear-gradient(red,yellow);
+								Text-align:center;
+								}
+							
+							Span mark{
+								color:red;
+								Padding:1px;
+								Background-color:#ddd;
+								Border:2px dashed black;
+								Width:20px;
+								}
+				
+							table,th,td{border:3px solid black;}
+							table{border-collapse:collapse}
+							th{color:red;}
+							td{color:tomato;}		
+							caption{color:gray}		
+							.Trial tbody tr:nth-child(even){background-color:black}
+							.Trial tbody tr:nth-child(odd){background-color:gray}
+							.list{background:#80A8A9;color:red;}
+							tfoot th{background:#FDD7A3;}
+							
+							.ok{
+							color:red;
+							}
+							.okk{
+							 color:red;
+							 padding: 10px;
+							 background: pink;
+							 display: inline;
+							 font-family: arial black;;
+							 margin:20px 30px 60px 60px;
+							 
+							}
+							input[type=text]{
+							  Color:salmon;
+							  border:green;
+							}
+							.image{
+							  border:50px;
+							  border-radius: 30px solid green;
+							}
