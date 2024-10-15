@@ -1,1 +1,1 @@
-# arpon
+In that time, I had zero knowledge of Git and GitHub. I just learned html, css and i was in learning python. I heard on youtube about github, so i uploaded some files randomly without understanding it well.
